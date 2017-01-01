@@ -1,2 +1,2 @@
 # hello-world
-Primero repositorio de ejemplo
+Primer repositorio de ejemplo
